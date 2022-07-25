@@ -1,9 +1,5 @@
 # Imersão de Dados 4 
 
-<p align="center">
-<img width='600px'  src='images/capa_imersao.jpg'/>
-</p>
-
 Imersão de Dados é um desafio de Data Science desenvolvido durante 5 dias ofertado pela Alura.
 Nesta edição, o desafio consistem em analisar dados sobre os imóveis na cidade de São Paulo afim de criar um modelo de precificação de imóveis.
 
