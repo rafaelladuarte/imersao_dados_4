@@ -12,7 +12,7 @@ Nesta edição, o desafio consistem em analisar dados sobre os imóveis na cidad
 * Pegar outras estatísticas dos dados (como média, mediana, mim, max).
 * Descobrir quais são os bairros que não tem nome de rua.
 
-## Aula 2 - Tratamento dos Dados
+## Aula 2 - Tratamento dos Dados :heavy_check_mark:
 
 ### Desafios
 * Criar uma escala de valores em milhões
