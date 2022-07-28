@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# LOCAL LARGE FILES
+/Large_Files/
+Large_Files/
