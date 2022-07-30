@@ -12,4 +12,4 @@
 <img width='400px'  src='images/capa_projeto.jpeg'/>
 </p>
 
-` python -m ipykernel install --user --name=<my_env_name> `
+

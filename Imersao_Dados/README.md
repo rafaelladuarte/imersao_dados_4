@@ -50,7 +50,9 @@ Nesta edição, o desafio consistem em analisar dados sobre os imóveis na cidad
 *  Realizar a análise exploratória e encontrar variáveis relevantes para solução do problema.
 
 ### Referências:
-* [Base de informações do Censo](https://drive.google.com/file/d/1WVTqfKtHOOk5X1AWaSOn6NLaO7cix2m4/view)
+* [Base de dados de endereços](https://drive.google.com/file/d/1u2qPFtYaE4of3Vb3d7yQEVEbS5FdQ_FP/view)
+* [Documentação da base de informações do Censo](https://drive.google.com/file/d/1WVTqfKtHOOk5X1AWaSOn6NLaO7cix2m4/view)
+* [Base dos setores censitários](https://drive.google.com/drive/folders/1CycoanzYN2oxKHPO6zxvIQ6Og1LBcujv)
 * [Dados Georreferenciados: Exploração e Visualização com Python](https://medium.com/creditas-tech/dados-georreferenciados-explora%C3%A7%C3%A3o-e-visualiza%C3%A7%C3%A3o-com-python-edd51e7c53da)
 * [Incrementando dados geográficos com o Censo Nacional do IBGE](https://medium.com/creditas-tech/incrementando-dados-geogr%C3%A1ficos-com-o-censo-nacional-do-ibge-54d342c4bdcf)
 * [Criando features de Machine Learning a partir de nomes de cidades](https://medium.com/creditas-tech/criando-features-de-machine-learning-a-partir-de-nomes-de-cidades-7149fae7778e)
